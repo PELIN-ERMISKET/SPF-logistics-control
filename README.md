@@ -20,6 +20,12 @@ link Project : "https://drive.google.com/file/d/1l1dFS7gelKipUUdNx8ut72XwsFag9FC
 
 ---
 
+## ER Diagram
+
+![ER Diagram](er_diagram.png)
+
+This ER diagram illustrates the relational structure of the SPF Logistics database, including tables, attributes, and their relationships.
+
 ## Database Structure
 
 The PostgreSQL database includes tables that simulate logistics operations such as:
