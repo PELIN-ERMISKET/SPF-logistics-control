@@ -5,7 +5,7 @@ The project was designed to simulate a logistics operation and transform raw ope
 The dashboard is organized into multiple pages, each focusing on a different operational area such as order management, inbound processes, inventory, workforce, and customer performance.
 The purpose of this report is to explain the logic, KPIs, and business value behind each dashboard page.
 
-![Order Overview](images/order_overview.png)
+![Order Overview](order_overview.png.png)
 
 ## Order Overview
 
@@ -13,7 +13,7 @@ The Order Overview page provides a view of outbound order performance. It highli
 
 Visuals on this page show monthly order trends, order status distribution, cancellation reasons, and top-selling SKUs. This helps quickly understand order volume, product demand, and potential operational issues affecting order fulfillment.
 
-![Inbound Dashboard](images/inbound.png)
+![Inbound Dashboard](inbound.png)
 
 ## Inbound
 
@@ -21,7 +21,7 @@ The Inbound page focuses on warehouse receiving operations. It tracks key metric
 
 The visuals show inbound performance by warehouse and shift, along with monthly receiving trends. This page helps evaluate receiving efficiency, detect operational bottlenecks, and monitor inbound workload distribution across warehouses.
 
-![Inventory Dashboard](images/inventory.png)
+![Inventory Dashboard](inventory.png)
 
 ## Inventory
 
@@ -29,7 +29,7 @@ The Inventory page focuses on stock availability and quality across warehouses. 
 
 The visuals show seasonal stock distribution and compare damaged versus saleable stock by warehouse. This page helps monitor inventory health, identify stock quality issues, and evaluate how inventory is distributed across warehouses and products.
 
-![Workforce Dashboard](images/workforce.png)
+![Workforce Dashboard](workforce.png)
 
 ## Workforce
 
@@ -37,7 +37,7 @@ The Workforce page analyzes labor performance and workforce distribution across 
 
 The visuals highlight workforce allocation by operational activity (packing, picking, shipping, receiving), shift distribution, and monthly absence trends. This page helps evaluate labor utilization, workforce efficiency, and staffing balance across warehouse operations.
 
-![Customer Dashboard](images/customer.png)
+![Customer Dashboard](customer.png)
 
 ## Customer Details
 
