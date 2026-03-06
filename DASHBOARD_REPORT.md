@@ -5,7 +5,7 @@ The project was designed to simulate a logistics operation and transform raw ope
 The dashboard is organized into multiple pages, each focusing on a different operational area such as order management, inbound processes, inventory, workforce, and customer performance.
 The purpose of this report is to explain the logic, KPIs, and business value behind each dashboard page.
 
-![Order Overview](order_overview.png.png)
+![Order Overview Dashboard](order_overview.png)
 
 ## Order Overview
 
